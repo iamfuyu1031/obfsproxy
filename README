@@ -1,0 +1,5 @@
+This is a revised version of the original Tor PT obfsproxy (https://www.torproject.org/projects/obfsproxy.html.en).
+
+We modified the ScrambleSuit to defend against Side-Channal attacks. The two side-channel features we are interested are: (1) packet size, (2) inter-packet delay. With a modified verison of Format-Transforming Encryption (FTE), we were able to transform Tor traffic into two target protocols. More debug and testins are needed. 
+
+We strongly recommend the user to start with a standalone version of the PT in order to understand the design. Refer to the design paper also.

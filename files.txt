@@ -1,0 +1,4 @@
+/usr/local/lib/python2.7/dist-packages/obfsproxy-1.0a-py2.7.egg
+/usr/local/bin/obfsproxy
+/usr/local/bin/easy_install-3.5
+/usr/local/bin/easy_install
